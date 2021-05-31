@@ -1,4 +1,4 @@
-<h1>GoogleGlass Website</h1>
+# GoogleGlass Website
 
 <h2>🖥️ About the project</h2>
 <p>A project developed with the Google-Glass theme.
