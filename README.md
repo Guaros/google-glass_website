@@ -1,6 +1,6 @@
-<h1>👓 Google Glass Website</h1>
+<h1>Google Glass Website</h1>
 
-<h2>🖥️ About the project</h2>
+<h2>🖥 👓 About the project</h2>
 <p>A project developed with the Google-Glass theme.
 It was an introduction to programming.</p>
 
